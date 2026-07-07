@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog!
+title: Learning Github Pages!
 ---
-## Hi, I am Cathron Paul.
+###### By Cathron Paul
