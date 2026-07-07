@@ -2,8 +2,6 @@
 title: "My GitHub Pages Learning Journey"
 date: 2026-07-07
 ---
-# My GitHub Pages Learning Journey
-
 Welcome to my first GitHub Pages blog post!
 
 Today I'm learning how to build and publish a website using GitHub Pages. This is an exciting step because it shows how code stored in a GitHub repository can become a live website that anyone can visit.
