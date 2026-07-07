@@ -1,5 +1,5 @@
 ---
-title: "Learning Github Pages"
+title: "My GitHub Pages Learning Journey"
 date: 2026-07-07
 ---
 # My GitHub Pages Learning Journey
