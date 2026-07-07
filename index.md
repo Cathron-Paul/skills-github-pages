@@ -1,4 +1,4 @@
 ---
-title: Learning Github Pages!
+title: Github Pages
 ---
 ###### By Cathron Paul
